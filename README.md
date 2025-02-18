@@ -1,16 +1,17 @@
 # Cloudcredits Intrenship
 # Zomato Data Analysis Project Using Python
-Hey My Name is Moh Ahamad. 
-I have a dataset of customers. As a data professional, I
-need to analyze the data, perform EDA (Exploratory
-Data Analysis) and visualization, and answer the
-following questions:
+Zomato Data Analysis Project Using Python
 
- What type of restaurant do the majority of customers order from?
- How many votes has each type of restaurant received from customers?
- What are the ratings that the majority of restaurants have received?
- Zomato has observed that most couples order most of their food online. What is their
- average spending on each order?
- Which mode (online or offline) has received the maximum rating?
- Which type of restaurant received more offline orders, so that Zomato can provide those
- customers with some good offers?
+About the Project:-
+Hello, I am Ahamad. In today's fast-paced digital world, food delivery platforms like Zomato play a crucial role in shaping customer dining experiences. With an abundance of restaurants to choose from, understanding customer preferences, spending habits, and ordering trends is essential for business growth.
+In this project, I will analyze a real-world dataset of Zomato customer orders to uncover valuable insights. Using Exploratory Data Analysis (EDA) and visualization techniques, I will identify patterns that can help optimize business strategies and improve customer satisfaction. 
+
+Objectives:-
+This project aims to answer the following key questions:
+Customer Preferences: What types of restaurants do most customers prefer to order from?
+Voting Trends: How many votes has each restaurant type received?
+Restaurant Ratings: What are the common ratings given to different restaurant types?
+Spending Behavior: Zomato has observed that couples frequently order food online. What is their average spending per order?
+Order Mode Comparison: Which ordering mode (online vs. offline) has received the highest ratings?
+Offline Ordering Trends: Which restaurant type receives the most offline orders, and how can Zomato tailor offers for these customers?
+By answering these questions, this analysis will provide actionable insights that can help Zomato enhance its service, create targeted marketing strategies, and deliver a seamless customer experience.
